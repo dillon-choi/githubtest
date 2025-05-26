@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-northeast-2
-  AWS_ACCOUNT_ID: 002115755950
+	AWS_ACCOUNT_ID: "002115755950"
   ECR_REPOSITORY: test/virun_test
   ECS_CLUSTER: test-cluster
   ECS_SERVICE: test-service
